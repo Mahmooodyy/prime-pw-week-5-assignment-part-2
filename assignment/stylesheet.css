@@ -1,12 +1,7 @@
 body{
     background-image: url(record.png);
+    margin: 0;
 }
-
-
-
-
-
-
 
 header{
 background-color: black;
@@ -18,4 +13,5 @@ main{
     text-align: center;
     background-color: grey;
     color: aliceblue;
+    padding: 1em;
 }
